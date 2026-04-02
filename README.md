@@ -74,6 +74,6 @@ The goal of this repository is to:
 
 Bahadır Can Aylaç
 Bahcesehir University.
+Computer Engineering
 .
 .
-aa
